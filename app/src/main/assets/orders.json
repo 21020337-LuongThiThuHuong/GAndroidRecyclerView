@@ -1,0 +1,1464 @@
+[
+  {
+    "name": "Lạc Lạc",
+    "status": true,
+    "phone": "038***8962",
+    "address": "Huyện Cần Giờ, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 10000,
+    "note": [
+      "Tư vấn giá",
+      "Heo",
+      "Đã chốt",
+      "Hương",
+      "cũ",
+      "okipp"
+    ]
+  },
+  {
+    "name": "Hương",
+    "status": false,
+    "phone": "025***1819",
+    "address": "Huyện Chương Mỹ, TP Hà Nội",
+    "category": "Gốm sứ",
+    "codPrice": 20000,
+    "note": [
+      "Tư vấn giá",
+      "Heo"
+    ]
+  },
+  {
+    "name": "Minh Tú",
+    "status": false,
+    "phone": "090***1234",
+    "address": "Quận 1, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 15000,
+    "note": [
+      "Cần kiểm tra hàng",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Bảo Ngọc",
+    "status": true,
+    "phone": "091***5678",
+    "address": "Quận 3, TP Hồ Chí Minh",
+    "category": "Giày dép",
+    "codPrice": 20000,
+    "note": [
+      "Đã chốt",
+      "Nguyễn"
+    ]
+  },
+  {
+    "name": "Trọng Nghĩa",
+    "status": false,
+    "phone": "093***9876",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 25000,
+    "note": [
+      "Cần kiểm tra bảo hành",
+      "Thanh"
+    ]
+  },
+  {
+    "name": "Thanh Mai",
+    "status": true,
+    "phone": "094***6543",
+    "address": "Quận 5, TP Hồ Chí Minh",
+    "category": "Phụ kiện",
+    "codPrice": 30000,
+    "note": [
+      "Đã thanh toán",
+      "Hùng"
+    ]
+  },
+  {
+    "name": "Phương Anh",
+    "status": true,
+    "phone": "095***3210",
+    "address": "Quận 7, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 5000,
+    "note": [
+      "Tặng kèm bookmark",
+      "Linh"
+    ]
+  },
+  {
+    "name": "Ngọc Lan",
+    "status": false,
+    "phone": "096***1234",
+    "address": "Huyện Hóc Môn, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 35000,
+    "note": [
+      "Giao hàng trước 5h chiều",
+      "Minh"
+    ]
+  },
+  {
+    "name": "Thùy Trang",
+    "status": true,
+    "phone": "097***5678",
+    "address": "Quận 9, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 10000,
+    "note": [
+      "Mua 1 tặng 1",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Anh Khoa",
+    "status": false,
+    "phone": "098***9876",
+    "address": "Quận Tân Phú, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 8000,
+    "note": [
+      "Cần đóng gói kỹ",
+      "Quang"
+    ]
+  },
+  {
+    "name": "Kim Ngân",
+    "status": true,
+    "phone": "099***6543",
+    "address": "Quận Bình Thạnh, TP Hồ Chí Minh",
+    "category": "Đồ chơi",
+    "codPrice": 7000,
+    "note": [
+      "Hàng khuyến mãi",
+      "Vân"
+    ]
+  },
+  {
+    "name": "Đức Huy",
+    "status": false,
+    "phone": "100***3210",
+    "address": "Quận Gò Vấp, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 15000,
+    "note": [
+      "Giao hàng tận nơi",
+      "Duy"
+    ]
+  },
+  {
+    "name": "Ngọc Hân",
+    "status": true,
+    "phone": "101***1234",
+    "address": "Quận Phú Nhuận, TP Hồ Chí Minh",
+    "category": "Thời trang",
+    "codPrice": 20000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Mai"
+    ]
+  },
+  {
+    "name": "Hoàng Anh",
+    "status": false,
+    "phone": "102***5678",
+    "address": "Quận Thủ Đức, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 25000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Tuấn"
+    ]
+  },
+  {
+    "name": "Mai Linh",
+    "status": true,
+    "phone": "103***9876",
+    "address": "Quận 11, TP Hồ Chí Minh",
+    "category": "Nội thất",
+    "codPrice": 30000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Lan"
+    ]
+  },
+  {
+    "name": "Bảo Châu",
+    "status": true,
+    "phone": "104***6543",
+    "address": "Quận 12, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 10000,
+    "note": [
+      "Tặng kèm quà",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Thành Long",
+    "status": false,
+    "phone": "105***3210",
+    "address": "Huyện Nhà Bè, TP Hồ Chí Minh",
+    "category": "Đồ ăn vặt",
+    "codPrice": 5000,
+    "note": [
+      "Giao nhanh trong ngày",
+      "Minh"
+    ]
+  },
+  {
+    "name": "Lan Phương",
+    "status": true,
+    "phone": "106***1234",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Nước uống",
+    "codPrice": 20000,
+    "note": [
+      "Đặt cọc trước",
+      "Hùng"
+    ]
+  },
+  {
+    "name": "Khánh Huyền",
+    "status": false,
+    "phone": "107***5678",
+    "address": "Huyện Hóc Môn, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 35000,
+    "note": [
+      "Bảo hành chính hãng",
+      "Linh"
+    ]
+  },
+  {
+    "name": "Minh Triết",
+    "status": true,
+    "phone": "108***9876",
+    "address": "Huyện Củ Chi, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 5000,
+    "note": [
+      "Tặng kèm bookmark",
+      "Lan"
+    ]
+  },
+  {
+    "name": "Thùy Linh",
+    "status": true,
+    "phone": "109***6543",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 10000,
+    "note": [
+      "Mua 1 tặng 1",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Quốc Bảo",
+    "status": false,
+    "phone": "110***3210",
+    "address": "Quận 2, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 15000,
+    "note": [
+      "Giao hàng tận nơi",
+      "Duy"
+    ]
+  },
+  {
+    "name": "Ngọc Minh",
+    "status": true,
+    "phone": "111***1234",
+    "address": "Quận 10, TP Hồ Chí Minh",
+    "category": "Đồ chơi",
+    "codPrice": 7000,
+    "note": [
+      "Hàng khuyến mãi",
+      "Vân"
+    ]
+  },
+  {
+    "name": "Thanh Bình",
+    "status": true,
+    "phone": "112***5678",
+    "address": "Quận Tân Bình, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 15000,
+    "note": [
+      "Cần kiểm tra hàng",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Phương Thảo",
+    "status": true,
+    "phone": "113***9876",
+    "address": "Quận 8, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 10000,
+    "note": [
+      "Tư vấn giá",
+      "Heo",
+      "Đã chốt",
+      "Hương",
+      "cũ",
+      "okipp"
+    ]
+  },
+  {
+    "name": "Trọng Hiếu",
+    "status": false,
+    "phone": "114***6543",
+    "address": "Quận Tân Bình, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 35000,
+    "note": [
+      "Bảo hành chính hãng",
+      "Linh"
+    ]
+  },
+  {
+    "name": "Customer 1",
+    "status": true,
+    "phone": "038***8901",
+    "address": "Quận 1, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 1000,
+    "note": [
+      "Tư vấn giá",
+      "Đã chốt",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Customer 2",
+    "status": false,
+    "phone": "038***8902",
+    "address": "Quận 2, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 2000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 3",
+    "status": true,
+    "phone": "038***8903",
+    "address": "Quận 3, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 3000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 4",
+    "status": false,
+    "phone": "038***8904",
+    "address": "Quận 4, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 4000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 5",
+    "status": true,
+    "phone": "038***8905",
+    "address": "Quận 5, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 5000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 6",
+    "status": false,
+    "phone": "038***8906",
+    "address": "Quận 6, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 6000,
+    "note": [
+      "Tặng kèm",
+      "Hỗ trợ kỹ thuật"
+    ]
+  },
+  {
+    "name": "Customer 7",
+    "status": true,
+    "phone": "038***8907",
+    "address": "Quận 7, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 7000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 8",
+    "status": false,
+    "phone": "038***8908",
+    "address": "Quận 8, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 8000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 9",
+    "status": true,
+    "phone": "038***8909",
+    "address": "Quận 9, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 9000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 10",
+    "status": false,
+    "phone": "038***8910",
+    "address": "Quận 10, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 10000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 11",
+    "status": true,
+    "phone": "038***8911",
+    "address": "Quận 11, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 11000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 12",
+    "status": false,
+    "phone": "038***8912",
+    "address": "Quận 12, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 12000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 13",
+    "status": true,
+    "phone": "038***8913",
+    "address": "Quận Bình Tân, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 13000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 14",
+    "status": false,
+    "phone": "038***8914",
+    "address": "Quận Bình Thạnh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 14000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 15",
+    "status": true,
+    "phone": "038***8915",
+    "address": "Quận Gò Vấp, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 15000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 16",
+    "status": false,
+    "phone": "038***8916",
+    "address": "Quận Phú Nhuận, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 16000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 17",
+    "status": true,
+    "phone": "038***8917",
+    "address": "Quận Tân Bình, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 17000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 18",
+    "status": false,
+    "phone": "038***8918",
+    "address": "Quận Tân Phú, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 18000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 19",
+    "status": true,
+    "phone": "038***8919",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 19000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 20",
+    "status": false,
+    "phone": "038***8920",
+    "address": "Huyện Cần Giờ, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 20000,
+    "note": [
+      "Tư vấn giá",
+      "Đã chốt",
+      "Hương"
+    ]
+  },
+  {
+    "name": "Customer 21",
+    "status": true,
+    "phone": "038***8921",
+    "address": "Huyện Củ Chi, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 21000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 22",
+    "status": false,
+    "phone": "038***8922",
+    "address": "Huyện Hóc Môn, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 22000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 23",
+    "status": true,
+    "phone": "038***8923",
+    "address": "Huyện Nhà Bè, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 23000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 24",
+    "status": false,
+    "phone": "038***8924",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 24000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 25",
+    "status": true,
+    "phone": "038***8925",
+    "address": "Quận 1, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 25000,
+    "note": [
+      "Tặng kèm",
+      "Hỗ trợ kỹ thuật"
+    ]
+  },
+  {
+    "name": "Customer 26",
+    "status": false,
+    "phone": "038***8926",
+    "address": "Quận 2, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 26000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 27",
+    "status": true,
+    "phone": "038***8927",
+    "address": "Quận 3, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 27000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 28",
+    "status": false,
+    "phone": "038***8928",
+    "address": "Quận 4, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 28000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 29",
+    "status": true,
+    "phone": "038***8929",
+    "address": "Quận 5, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 29000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 30",
+    "status": false,
+    "phone": "038***8930",
+    "address": "Quận 6, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 30000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 31",
+    "status": true,
+    "phone": "038***8931",
+    "address": "Quận 7, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 31000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 32",
+    "status": false,
+    "phone": "038***8932",
+    "address": "Quận 8, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 32000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 33",
+    "status": true,
+    "phone": "038***8933",
+    "address": "Quận 9, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 33000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 34",
+    "status": false,
+    "phone": "038***8934",
+    "address": "Quận 10, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 34000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 35",
+    "status": true,
+    "phone": "038***8935",
+    "address": "Quận 11, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 35000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 36",
+    "status": false,
+    "phone": "038***8936",
+    "address": "Quận 12, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 36000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 37",
+    "status": true,
+    "phone": "038***8937",
+    "address": "Quận Bình Tân, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 37000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 38",
+    "status": false,
+    "phone": "038***8938",
+    "address": "Quận Bình Thạnh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 38000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 39",
+    "status": true,
+    "phone": "038***8939",
+    "address": "Quận Gò Vấp, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 39000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 40",
+    "status": false,
+    "phone": "038***8940",
+    "address": "Quận Phú Nhuận, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 40000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 41",
+    "status": true,
+    "phone": "038***8941",
+    "address": "Quận Tân Bình, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 41000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 42",
+    "status": false,
+    "phone": "038***8942",
+    "address": "Quận Tân Phú, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 42000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 43",
+    "status": true,
+    "phone": "038***8943",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 43000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 44",
+    "status": false,
+    "phone": "038***8944",
+    "address": "Huyện Cần Giờ, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 44000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 45",
+    "status": true,
+    "phone": "038***8945",
+    "address": "Huyện Củ Chi, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 45000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 46",
+    "status": false,
+    "phone": "038***8946",
+    "address": "Huyện Hóc Môn, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 46000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 47",
+    "status": true,
+    "phone": "038***8947",
+    "address": "Huyện Nhà Bè, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 47000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 48",
+    "status": false,
+    "phone": "038***8948",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 48000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 49",
+    "status": true,
+    "phone": "038***8949",
+    "address": "Quận 1, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 49000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 50",
+    "status": false,
+    "phone": "038***8950",
+    "address": "Quận 2, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 50000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 51",
+    "status": true,
+    "phone": "038***8951",
+    "address": "Quận 3, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 51000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 52",
+    "status": false,
+    "phone": "038***8952",
+    "address": "Quận 4, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 52000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 53",
+    "status": true,
+    "phone": "038***8953",
+    "address": "Quận 5, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 53000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 54",
+    "status": false,
+    "phone": "038***8954",
+    "address": "Quận 6, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 54000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 55",
+    "status": true,
+    "phone": "038***8955",
+    "address": "Quận 7, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 55000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 56",
+    "status": false,
+    "phone": "038***8956",
+    "address": "Quận 8, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 56000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 57",
+    "status": true,
+    "phone": "038***8957",
+    "address": "Quận 9, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 57000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 58",
+    "status": false,
+    "phone": "038***8958",
+    "address": "Quận 10, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 58000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 59",
+    "status": true,
+    "phone": "038***8959",
+    "address": "Quận 11, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 59000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 60",
+    "status": false,
+    "phone": "038***8960",
+    "address": "Quận 12, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 60000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 61",
+    "status": true,
+    "phone": "038***8961",
+    "address": "Quận Bình Tân, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 61000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 62",
+    "status": false,
+    "phone": "038***8962",
+    "address": "Quận Bình Thạnh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 62000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 63",
+    "status": true,
+    "phone": "038***8963",
+    "address": "Quận Gò Vấp, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 63000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 64",
+    "status": false,
+    "phone": "038***8964",
+    "address": "Quận Phú Nhuận, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 64000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 65",
+    "status": true,
+    "phone": "038***8965",
+    "address": "Quận Tân Bình, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 65000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 66",
+    "status": false,
+    "phone": "038***8966",
+    "address": "Quận Tân Phú, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 66000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 67",
+    "status": true,
+    "phone": "038***8967",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 67000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 68",
+    "status": false,
+    "phone": "038***8968",
+    "address": "Huyện Cần Giờ, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 68000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 69",
+    "status": true,
+    "phone": "038***8969",
+    "address": "Huyện Củ Chi, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 69000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 70",
+    "status": false,
+    "phone": "038***8970",
+    "address": "Huyện Hóc Môn, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 70000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 71",
+    "status": true,
+    "phone": "038***8971",
+    "address": "Huyện Nhà Bè, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 71000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 72",
+    "status": false,
+    "phone": "038***8972",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 72000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 73",
+    "status": true,
+    "phone": "038***8973",
+    "address": "Quận 1, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 73000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 74",
+    "status": false,
+    "phone": "038***8974",
+    "address": "Quận 2, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 74000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 75",
+    "status": true,
+    "phone": "038***8975",
+    "address": "Quận 3, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 75000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 76",
+    "status": false,
+    "phone": "038***8976",
+    "address": "Quận 4, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 76000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 77",
+    "status": true,
+    "phone": "038***8977",
+    "address": "Quận 5, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 77000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 78",
+    "status": false,
+    "phone": "038***8978",
+    "address": "Quận 6, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 78000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 79",
+    "status": true,
+    "phone": "038***8979",
+    "address": "Quận 7, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 79000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 80",
+    "status": false,
+    "phone": "038***8980",
+    "address": "Quận 8, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 80000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 81",
+    "status": true,
+    "phone": "038***8981",
+    "address": "Quận 9, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 81000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 82",
+    "status": false,
+    "phone": "038***8982",
+    "address": "Quận 10, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 82000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 83",
+    "status": true,
+    "phone": "038***8983",
+    "address": "Quận 11, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 83000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 84",
+    "status": false,
+    "phone": "038***8984",
+    "address": "Quận 12, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 84000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 85",
+    "status": true,
+    "phone": "038***8985",
+    "address": "Quận Bình Tân, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 85000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 86",
+    "status": false,
+    "phone": "038***8986",
+    "address": "Quận Bình Thạnh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 86000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 87",
+    "status": true,
+    "phone": "038***8987",
+    "address": "Quận Gò Vấp, TP Hồ Chí Minh",
+    "category": "Thực phẩm",
+    "codPrice": 87000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 88",
+    "status": false,
+    "phone": "038***8988",
+    "address": "Quận Phú Nhuận, TP Hồ Chí Minh",
+    "category": "Thể thao",
+    "codPrice": 88000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  },
+  {
+    "name": "Customer 89",
+    "status": true,
+    "phone": "038***8989",
+    "address": "Quận Tân Bình, TP Hồ Chí Minh",
+    "category": "Điện tử",
+    "codPrice": 89000,
+    "note": [
+      "Miễn phí vận chuyển",
+      "Tặng quà"
+    ]
+  },
+  {
+    "name": "Customer 90",
+    "status": false,
+    "phone": "038***8990",
+    "address": "Quận Tân Phú, TP Hồ Chí Minh",
+    "category": "Đồng hồ",
+    "codPrice": 90000,
+    "note": [
+      "Bảo hành 6 tháng",
+      "Đổi trả"
+    ]
+  },
+  {
+    "name": "Customer 91",
+    "status": true,
+    "phone": "038***8991",
+    "address": "Huyện Bình Chánh, TP Hồ Chí Minh",
+    "category": "Đồ gia dụng",
+    "codPrice": 91000,
+    "note": [
+      "Bảo hành 12 tháng",
+      "Miễn phí giao hàng"
+    ]
+  },
+  {
+    "name": "Customer 92",
+    "status": false,
+    "phone": "038***8992",
+    "address": "Huyện Cần Giờ, TP Hồ Chí Minh",
+    "category": "Mỹ phẩm",
+    "codPrice": 92000,
+    "note": [
+      "Giao hàng trước 6 giờ",
+      "Khuyến mãi"
+    ]
+  },
+  {
+    "name": "Customer 93",
+    "status": true,
+    "phone": "038***8993",
+    "address": "Huyện Củ Chi, TP Hồ Chí Minh",
+    "category": "Đồ điện gia dụng",
+    "codPrice": 93000,
+    "note": [
+      "Giao hàng nhanh",
+      "Ưu đãi"
+    ]
+  },
+  {
+    "name": "Customer 94",
+    "status": false,
+    "phone": "038***8994",
+    "address": "Huyện Hóc Môn, TP Hồ Chí Minh",
+    "category": "Sách",
+    "codPrice": 94000,
+    "note": [
+      "Tư vấn miễn phí",
+      "Đã chốt"
+    ]
+  },
+  {
+    "name": "Customer 95",
+    "status": true,
+    "phone": "038***8995",
+    "address": "Huyện Nhà Bè, TP Hồ Chí Minh",
+    "category": "Quần áo",
+    "codPrice": 95000,
+    "note": [
+      "Kiểm tra hàng",
+      "Giảm giá"
+    ]
+  }
+]
