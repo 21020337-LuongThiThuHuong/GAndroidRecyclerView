@@ -24,22 +24,6 @@ class OrderAdapter(private var orderList: List<OrderModel>) : RecyclerView.Adapt
         }
     }
 
-    class PendingOrderViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        val profileImage: CircleImageView = itemView.findViewById(R.id.profile_image)
-        val name: TextView = itemView.findViewById(R.id.name)
-        val status: TextView = itemView.findViewById(R.id.status)
-        val phone: TextView = itemView.findViewById(R.id.phone)
-        val category: TextView = itemView.findViewById(R.id.category)
-        val note: LinearLayout = itemView.findViewById(R.id.note)
-    }
-
-    class DoneOrderViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
-        val profileImage: CircleImageView = itemView.findViewById(R.id.profile_image)
-        val name: TextView = itemView.findViewById(R.id.name)
-        val status: TextView = itemView.findViewById(R.id.status)
-        val phone: TextView = itemView.findViewById(R.id.phone)
-    }
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
         return if (viewType == VIEW_TYPE_DONE) {
             val itemView = LayoutInflater.from(parent.context).inflate(R.layout.order_item_done, parent, false)
@@ -73,7 +57,25 @@ class OrderAdapter(private var orderList: List<OrderModel>) : RecyclerView.Adapt
         }
     }
 
-    override fun getItemCount() = orderList.size
+    override fun getItemCount(): Int {
+        return orderList.size
+    }
+
+    class PendingOrderViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+        val profileImage: CircleImageView = itemView.findViewById(R.id.profile_image)
+        val name: TextView = itemView.findViewById(R.id.name)
+        val status: TextView = itemView.findViewById(R.id.status)
+        val phone: TextView = itemView.findViewById(R.id.phone)
+        val category: TextView = itemView.findViewById(R.id.category)
+        val note: LinearLayout = itemView.findViewById(R.id.note)
+    }
+
+    class DoneOrderViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+        val profileImage: CircleImageView = itemView.findViewById(R.id.profile_image)
+        val name: TextView = itemView.findViewById(R.id.name)
+        val status: TextView = itemView.findViewById(R.id.status)
+        val phone: TextView = itemView.findViewById(R.id.phone)
+    }
 
     fun updateData(newList: List<OrderModel>) {
         this.orderList = newList
